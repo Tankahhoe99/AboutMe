@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="my_name">Hi Tony</string>
+    <string name="my_joker">Profile PIcture</string>
+    <string name="my_desc">Foods I like: Ice cream
+    \n
+    \nHobbies : Badminton, play computer games, and watching movie etc
+    \n
+        \nEducation:
+        \n\tSRJK Cheng Siew
+    \n\tSM Kolam Air
+    \n\tTAR UC
+    \n\tLiverpool John Moores
+    \n\tMultimedia University
+    \n
+    \nWorking Experiences:
+    \n\tMaxigrid</string>
+</resources>
